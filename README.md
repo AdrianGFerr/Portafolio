@@ -10,6 +10,6 @@
 
 ## Hecho por:
 
-###Ana García
+###Adrian Ferrera
 
-### Linkedin: https://www.linkedin.com/school/aluracursos/
+https://www.linkedin.com/uas/login?session_redirect=https%3A%2F%2Fwww.linkedin.com%2Ffeed%2F
